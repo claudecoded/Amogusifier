@@ -2,6 +2,8 @@
 
 A simple Python tool that transforms any input photo into a mosaic/pixel art composition made entirely out of characters from the popular game **Among Us** (Amogus).
 
+<img width="902" height="495" alt="Screenshot 2026-09-27 180231" src="https://github.com/user-attachments/assets/87110171-232c-4308-8612-442695a04b77" />
+
 ## Features
 - Automatically samples and resizes images to a processing grid.
 - Analyzes color regions and maps them to the closest Among Us crewmate color.
