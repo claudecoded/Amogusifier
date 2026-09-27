@@ -15,6 +15,11 @@ Before running the project, ensure you have Python installed, then install the r
 ```bash
 pip install pillow numpy
 ```
+## And for those who don't have "pip":
+```bash
+python -m pip install pillow numpy
+```
+<img width="1211" height="382" alt="image" src="https://github.com/user-attachments/assets/28596f33-ec7c-46f1-aef1-a4621317efbd" />
 
 ## Repository Structure
 - `main.py`: The entry point script to process your image.
